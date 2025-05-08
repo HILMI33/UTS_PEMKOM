@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "681c208cfe7b4f0755d27077"
+  },
+  "nama": "Budi",
+  "umur": 23,
+  "kelas": "D"
+},
+{
+  "_id": {
+    "$oid": "681c208cfe7b4f0755d27078"
+  },
+  "nama": "Citra",
+  "umur": 22,
+  "kelas": "D"
+}]
